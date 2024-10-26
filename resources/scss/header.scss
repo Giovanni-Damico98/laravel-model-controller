@@ -1,0 +1,26 @@
+header {
+    width: 100%;
+    background-color: #001f3f;
+    margin-bottom: 40px;
+}
+.nav-menu li {
+    justify-content: center;
+    cursor: pointer;
+    padding: 20px 0;
+}
+
+.nav-menu li a {
+    text-decoration: none;
+}
+
+.header-logo {
+    width: 30%;
+    img {
+        height: 70px;
+        width: 70px;
+    }
+}
+
+header {
+    padding: 10px 0;
+}
